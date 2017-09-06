@@ -36,3 +36,4 @@ console.log("Eighteenth commit on rebase-branch");
 console.log("Nineteenth commit on rebase-branch");
 
 console.log("Testing git commit from IDE");
+console.log("Testing wrapping of commits by Git and IDE");
