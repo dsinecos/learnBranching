@@ -19,3 +19,5 @@ console.log("Second commit on rebase-branch");
 console.log("Third commit on rebase-branch");
 console.log("Fourth commit on rebase-branch");
 console.log("Fifth commit on rebase-branch");
+console.log("Sixth commit on rebase-branch");
+console.log("Seventh commit on rebase-branch");
