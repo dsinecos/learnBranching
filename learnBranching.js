@@ -3,6 +3,7 @@ console.log("Second commit on master branch");
 console.log("Third commit on master branch");
 console.log("Fourth commit on master branch");
 console.log("Fifth commit on master branch");
+console.log("Sixth commit on master branch");
 
 console.log("First commit on authentication branch");
 console.log("Second commit on authentication branch");
