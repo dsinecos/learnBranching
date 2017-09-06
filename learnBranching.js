@@ -8,3 +8,4 @@ console.log("Fifth commit on authentication branch");
 console.log("First commit on oauth branch");
 console.log("Second commit on oauth branch");
 console.log("Third commit on oauth branch");
+console.log("Fourth commit on oauth branch");
