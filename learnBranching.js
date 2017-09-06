@@ -31,3 +31,5 @@ console.log("Thirteenth commit on rebase-branch");
 console.log("Fourteenth commit on rebase-branch");
 console.log("Fifteenth commit on rebase-branch");
 console.log("Sixteenth commit on rebase-branch");
+console.log("Seventeenth commit on rebase-branch");
+console.log("Eighteenth commit on rebase-branch");
