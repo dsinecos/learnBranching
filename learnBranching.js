@@ -16,3 +16,4 @@ console.log("Fourth commit on oauth branch");
 
 console.log("First commit on rebase-branch");
 console.log("Second commit on rebase-branch");
+console.log("Third commit on rebase-branch");
